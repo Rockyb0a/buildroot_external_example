@@ -71,6 +71,7 @@ To use this external repository with Buildroot:
    ```bash
    ./list_defconfigs.sh
    ```
+   This command would also generate a buildroot/output folder with wrapper config files into that folder for this external deefconfig.
 
    Finally, to apply the default configuration, run this command:
    ```bash
